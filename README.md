@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/david-p-172823149/">David Padilla</a>'s Cloud Security | GRC & Identity Analyst Project Portfolio 🔐
-Cloud Security Analyst | GRC & Identity Governance
+GRC & Identity Governance
 
 Cloud Security Analyst with 4+ years securing enterprise environments across security operations, identity and access management, vulnerability management, and cloud governance for AWS and Azure.
 
